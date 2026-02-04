@@ -10,7 +10,6 @@ Desenvolvi uma base composta por:
 
 ## Demonstração
 ![Demonstracao da Automação]
-
 (Demonstracao.gif)
 
 ## Tecnologias Utilizadas

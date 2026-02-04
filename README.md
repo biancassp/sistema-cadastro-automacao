@@ -9,7 +9,7 @@ Desenvolvi uma base composta por:
 2. **Bot de Automação**: Um assistente que lê uma planilha Excel e realiza os lançamentos automaticamente no sistema.
 
 ## Demonstração
-<img src="Demonstracao.gif" width="600">
+<img src="demonstracao.gif" width="600">
 
 ## Tecnologias Utilizadas
 * **Python** para a lógica principal;

@@ -8,6 +8,10 @@ Desenvolvi uma base composta por:
 1. **Sistema de Cadastro**: Uma interface para recebimento de dados de produtos;
 2. **Bot de Automação**: Um assistente que lê uma planilha Excel e realiza os lançamentos automaticamente no sistema.
 
+## Demonstração
+![Demonstracao da Automação]
+(Demonstracao.gif)
+
 ## Tecnologias Utilizadas
 * **Python** para a lógica principal;
 * **PyAutoGUI** para a automação da interface;
